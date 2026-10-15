@@ -37,7 +37,7 @@ import { useMapClickHandler } from '@/composables/drawOnMap'
 import SimpleRenderer from '@arcgis/core/renderers/SimpleRenderer'
 import SimpleFillSymbol from '@arcgis/core/symbols/SimpleFillSymbol'
 import LabelClass from '@arcgis/core/layers/support/LabelClass'
-import { C } from 'vue-router/dist/router-CWoNjPRp.mjs'
+//import { C } from 'vue-router/dist/router-CWoNjPRp.mjs'
 import { tempLayer } from '@/composables/useLayers'
 import { loadCategories, loadTypes, loadMethods } from '@/composables/workOrder/useCategory'
 
