@@ -1,0 +1,37 @@
+{
+  "name": "facility_management_system",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/matt24young0616/Facility_Management_System#readme",
+  "bugs": {
+    "url": "https://github.com/matt24young0616/Facility_Management_System/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt24young0616/Facility_Management_System.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.8",
+    "express": "^5.2.1",
+    "leaflet": "^1.9.4",
+    "lodash": "^4.17.21",
+    "node-fetch": "^3.3.2",
+    "pg": "^8.16.3",
+    "vue": "^3.5.27"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.3",
+    "nodemon": "^3.1.11",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  }
+}

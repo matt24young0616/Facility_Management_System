@@ -1,0 +1,35 @@
+ID,Category ID,Name
+1,1,Flooring
+2,1,Restroom
+3,1,Windows
+4,1,Walls
+5,1,Ceiling
+6,2,Preventative Maintenance
+7,2,Corrective Maintenance
+8,2,Asset Inspection
+9,2,Door Repair
+10,2,Painting
+11,2,Lighting Replacement
+12,3,Power Outlets
+13,3,Circuit Breakers
+14,3,Generators
+15,3,Data Cabling
+16,4,Air Handlers
+17,4,Thermostats
+18,4,Filters
+19,4,Ductwork
+20,4,Exhaust Fans
+21,5,Toilets
+22,5,Sinks
+23,5,Faucets
+24,5,Water Heaters
+25,5,Valves
+26,6,Fire Extinguishers
+27,6,Fire Alarms
+28,6,Exit Signs
+29,6,Safety Inspections
+30,6,Handrails
+31,7,Roofing
+32,7,Concrete
+33,7,Foundation
+34,7,Fencing

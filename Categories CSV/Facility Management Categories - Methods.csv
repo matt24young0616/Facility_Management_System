@@ -1,0 +1,144 @@
+ID,Type ID,Method
+1,1,Vacuum
+2,1,Sweep
+3,1,Mop
+4,1,Steam Clean
+5,1,Strip and Wax
+6,1,Buff
+7,1,Carpet Extraction
+8,2,Clean Fixtures
+9,2,Sanitize Surfaces
+10,2,Restock Supplies
+11,2,Deep Clean
+12,2,Odor Treatment
+13,3,Interior Cleaning
+14,3,Exterior Cleaning
+15,3,Glass Polishing
+16,3,Screen Cleaning
+17,4,Spot Clean
+18,4,Wash
+19,4,Disinfect
+20,4,Graffiti Removal
+21,5,Dust
+22,5,Spot Clean
+23,5,Vent Cleaning
+24,6,Inspect
+25,6,Clean
+26,6,Lubricate
+27,6,Test
+28,6,Adjust
+29,6,Scheduled Replacement
+30,7,Diagnose
+31,7,Repair
+32,7,Replace
+33,7,Test
+34,8,Visual Inspection
+35,8,Functional Test
+36,8,Safety Inspection
+37,8,Compliance Check
+38,9,Hinge Adjustment
+39,9,Lock Repair
+40,9,Door Alignment
+41,9,Hardware Replacement
+42,10,Touch Up
+43,10,Repaint
+44,10,Surface Preparation
+45,10,Primer Application
+46,11,Bulb Replacement
+47,11,Fixture Repair
+48,11,Fixture Replacement
+49,11,LED Upgrade
+50,11,Inspection
+51,12,Test Outlet
+52,12,Replace Outlet
+53,12,Repair Wiring
+54,12,Install Outlet
+55,13,Reset Breaker
+56,13,Replace Breaker
+57,13,Load Testing
+58,13,Inspection
+59,14,Start-Up Test
+60,14,Load Test
+61,14,Fuel Service
+62,14,Repair
+63,14,Replacement
+64,15,Install Cable
+65,15,Replace Cable
+66,15,Terminate Cable
+67,15,Test Connection
+68,16,Inspect
+69,16,Clean Coils
+70,16,Belt Replacement
+71,16,Lubrication
+72,16,Repair
+73,17,Calibration
+74,17,Battery Replacement
+75,17,Reprogram
+76,17,Replace
+77,18,Inspect
+78,18,Clean
+79,18,Replace
+80,18,Airflow Test
+81,19,Inspect
+82,19,Clean
+83,19,Repair
+84,19,Seal
+85,20,Clean
+86,20,Lubricate
+87,20,Repair
+88,20,Replace
+89,21,Unclog
+90,21,Leak Repair
+91,21,Flush Valve Repair
+92,21,Replace Components
+93,22,Unclog
+94,22,Leak Repair
+95,22,Drain Cleaning
+96,22,Replace Fixture
+97,23,Replace Cartridge
+98,23,Leak Repair
+99,23,Replace Faucet
+100,24,Flush Tank
+101,24,Inspect
+102,24,Repair
+103,24,Replace
+104,25,Inspect
+105,25,Repair
+106,25,Replace
+107,25,Test
+108,26,Inspect
+109,26,Recharge
+110,26,Replace
+111,26,Certification Check
+112,27,Test
+113,27,Inspect
+114,27,Battery Replacement
+115,27,Repair
+116,28,Test
+117,28,Replace Bulb
+118,28,Replace Battery
+119,28,Replace Unit
+120,29,Building Inspection
+121,29,Equipment Inspection
+122,29,Compliance Review
+123,29,Hazard Assessment
+124,30,Inspect
+125,30,Tighten
+126,30,Repair
+127,30,Replace
+128,31,Inspect
+129,31,Patch
+130,31,Leak Repair
+131,31,Seal
+132,31,Replace
+133,32,Crack Repair
+134,32,Patch
+135,32,Seal
+136,32,Replace Section
+137,33,Inspect
+138,33,Crack Repair
+139,33,Stabilization
+140,34,Repair
+141,34,Replace Panel
+142,34,Paint
+143,34,Inspect
